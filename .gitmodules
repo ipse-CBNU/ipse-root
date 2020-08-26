@@ -1,0 +1,3 @@
+[submodule "project/ipse-kotlin"]
+	path = project/ipse-kotlin
+	url = https://github.com/ipse-CBNU/ipse-kotlin
